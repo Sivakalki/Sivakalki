@@ -24,12 +24,15 @@ I am a **Software Development Engineer** at `APXOR` and **M.Tech (DSAI) student*
 -----
 
 ### 🛠️ Featured Projects
-
-  * **ORIVA:** \* An AI-driven recruitment assistant.
+  * **MCP-Enterprise-Bridge:**  A high-performance AI-to-Database orchestration layer using the Model Context Protocol (MCP).
+      * Built a Go-based MCP server to handle high-concurrency database tool-calling and SQL execution.
+      * Developed a Node.js/TypeScript middleman to manage LLM orchestration (Groq/OpenAI) and secure Stdio transport.
+      * Integrated pgvector with PostgreSQL to enable semantic similarity search for e-commerce product discovery.
+  * **ORIVA:** An AI-driven recruitment assistant.
       * Integrated **LLMs** for automated resume parsing and intelligent interview question generation.
       * Developed a one-click **LinkedIn API** integration for automated job distribution.
-  * **AgriClinic:** \* A smart agro-consultancy app utilizing image analysis to diagnose crop and soil health issues.
-  * **GA GradeArena:** \* Contributed to a robust, proctored testing platform for high-integrity candidate evaluations.
+  * **AgriClinic:** A smart agro-consultancy app utilizing image analysis to diagnose crop and soil health issues.
+  * **GA GradeArena:**  Contributed to a robust, proctored testing platform for high-integrity candidate evaluations.
 
 -----
 
